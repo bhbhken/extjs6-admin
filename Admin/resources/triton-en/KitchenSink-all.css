@@ -1,0 +1,99 @@
+@import 'KitchenSink-all_1.css';
+@import 'KitchenSink-all_2.css';
+.x-panel-header-title-default, .x-panel-header-title-default, .x-panel-header-title-default-framed, .x-window-header-title-default
+
+{font-weight: bold;color: #ffffff;font-family:"Microsoft YaHei";}
+.x-splitter-focus:after{border: none;}
+.button-user-small:before{font-family:FontAwesome;content:"\f007";}
+.button-credit-card-small:before{font-family:FontAwesome;content:"\f09d";}
+.button-cogs-small:before{font-family:FontAwesome;content:"\f085";}
+.button-key-small:before{font-family:FontAwesome;content:"\f084";}
+.button-qrcod-small:before{font-family:FontAwesome;content:"\f029";}
+.button-off-small:before{font-family:FontAwesome;content:"\f011";}
+
+.buttons-home-home:before{font-family:FontAwesome;content:"\f015";font-size: 20px;}
+.buttons-home-PersonalCenter:before{font-family:FontAwesome;content:"\f007";font-size: 20px;}
+.buttons-home-Purchase:before{font-family:FontAwesome;content:"\f0ac";font-size: 20px;}
+.buttons-home-Inventory:before{font-family:FontAwesome;content:"\f0f7";font-size: 20px;}
+.buttons-home-Sale:before{font-family:FontAwesome;content:"\f07a";font-size: 20px;}
+.buttons-home-Rental:before{font-family:FontAwesome;content:"\f0d1";font-size: 20px;}
+.buttons-home-Customer:before{font-family:FontAwesome;content:"\f0c0";font-size: 20px;}
+.buttons-home-Capital:before{font-family:FontAwesome;content:"\f0d6";font-size: 20px;}
+.buttons-home-BasicData:before{font-family:FontAwesome;content:"\f029";font-size: 20px;}
+.buttons-home-System:before{font-family:FontAwesome;content:"\f013";font-size: 20px;}
+.buttons-home-WebSite:before{font-family:FontAwesome;content:"\f109";font-size: 20px;}
+.buttons-home-Cardreader:before{font-family:FontAwesome;content:"\f09d";font-size: 20px;}
+.buttons-home-CardManage:before{font-family:FontAwesome;content:"\f022";font-size: 20px;}
+.buttons-home-Statistics:before{font-family:FontAwesome;content:"\f080";font-size: 20px;}
+#mainMenuItemsId .x-tree-node-text{font-size: 16px;padding-left: 12px;}
+#mainMenuItemsId .x-grid-cell-inner-treecolumn{padding-top: 9px;padding-bottom: 9px;}
+.PSI-button-ok:before{font-family:FontAwesome;content:"\f0c7";}
+.Doorin-login:before{font-family:FontAwesome;content:"\f09c";}
+.org-users:before{font-family:FontAwesome;content:"\f0c0";}
+.icon-user-md:before{font-family:FontAwesome;content:"\f0f0";}
+#editForm-body{overflow: auto;}
+#memberTypeForm-body{overflow: auto;}
+
+.timeline-item .contents-wrap {
+	border-radius: 10px;
+    border: 1px solid #35baf6;
+    position: relative;
+    padding: 15px;
+    white-space: normal;
+    min-height: 90px;
+}
+.timeline-item .profile-pic-wrap img {
+    height: 46px;
+    width: 46px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+}
+.timeline-item .profile-pic-wrap {
+    width: 100px;
+    float: left;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    padding: 5px 0;
+    margin-left: -10px;
+}
+.fa-quote-left:before {
+    padding-right: 10px;
+}
+.timeline-item .article-comment {
+    color: gray;
+}
+
+.delete-focus-bg{
+    border: none; 
+    background: none;
+    width: 34px;
+    height: 30px;
+}
+.delete-focus-bg:hover{
+    background: none;
+
+}
+.delete-focus-bg .x-fa{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.x-btn-focus.x-btn-default-toolbar-small,.x-btn-focus.x-btn-over.x-btn-default-toolbar-small {
+    box-shadow: none;
+    background: none;
+}
+.delete-focus-bg .x-fa{
+    color: #35baf6;
+    font-size: 20px;
+}
+.delete-focus-bg .x-fa:hover{
+    color: #86c747;
+    font-size: 20px;
+}
+.x-grid-item-focused .x-grid-cell-inner:before{
+    border: none;
+}
